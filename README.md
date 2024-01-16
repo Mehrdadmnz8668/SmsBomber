@@ -8,15 +8,15 @@ Run It easily with Termux
 First You must clone the repository
 with this command
 
-git clone https://github.com/Mehrdadmnz8668/SmsBomber
+`git clone https://github.com/Mehrdadmnz8668/SmsBomber`
 
 then
 
-cd SmsBomber
+`cd SmsBomber`
 
 then you must run the script with python
 
-python sms.py
+`python sms.py`
 
 you have to enter your target number without country code +98
 
